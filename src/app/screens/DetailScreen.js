@@ -218,7 +218,7 @@ export default class DetailScreen extends Component {
                         <Item regular style={styles.buyQtyInputContainer}>
                             <Input
                                 value={this.state.qty}
-                                keyboardType='number-pad'
+                                keyboardType='numeric'
                                 onChangeText={(value) => this._handleQtyChanged(value)}
                                 style={styles.buyQtyInput}
                             />

@@ -31,7 +31,11 @@ const CartItem = ({ index, item, increaseQty, decreaseQty, removeItem }) => (
             <View style={styles.buyRequest}>
                 <View style={styles.buyQtyContainer}>
                     <Item regular style={styles.buyQty}>
-                        <Input placeholder='1' value={item.qty} style={{
+                        <Input
+                            placeholder='1'
+                            value={item.qty}
+                            keyboardType='numeric'
+                            style={{
                             fontSize: 12,
                         }} />
                     </Item>
