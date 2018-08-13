@@ -2,6 +2,10 @@
 
 An implementation based on: https://www.uplabs.com/posts/e-book-reader-app
 
+### Expo Link
+https://expo.io/@awoyotoyin/book-reader
+
+
 ### Screenshots
 
 <img src="assets/screenshots/splash.jpg" width="350" style="margin-bottom: 20px;" title="Splash">
