@@ -1,0 +1,43 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.2.7",
+    "apollo-cache-persist": "^0.1.1",
+    "apollo-client": "^2.3.8",
+    "apollo-link": "^1.2.2",
+    "apollo-link-context": "^1.0.8",
+    "apollo-link-error": "^1.1.0",
+    "apollo-link-http": "^1.5.4",
+    "apollo-link-state": "^0.4.1",
+    "apollo-link-ws": "^1.0.8",
+    "autobind-decorator": "^2.1.0",
+    "axios": "^0.18.0",
+    "expo": "^29.0.0",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "lodash.merge": "^4.6.1",
+    "native-base": "^2.7.2",
+    "react": "16.3.1",
+    "react-addons-update": "^15.6.2",
+    "react-apollo": "^2.1.11",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "react-native-snap-carousel": "^3.7.2",
+    "react-native-star-rating": "^1.0.9",
+    "react-navigation": "^2.9.3",
+    "react-navigation-redux-helpers": "^2.0.5",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-observable": "^1.0.0",
+    "redux-promise": "^0.6.0",
+    "redux-thunk": "^2.3.0",
+    "rxjs": "^6.2.2"
+  }
+}

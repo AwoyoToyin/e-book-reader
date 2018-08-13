@@ -1,0 +1,11 @@
+!.gitignore
+!README.md
+node_modules/**/*
+.expo/*
+npm-debug.*
+.DS_Store
+yarn-error.log
+!assets/*
+!src/*
+src/store
+src/graphql

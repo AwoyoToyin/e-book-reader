@@ -1,0 +1,23 @@
+
+Todo:
+    ☐ Screens
+        ✔ Authentication @done(18-08-02 13:52)
+            ✔ Splash Screen @done(18-08-01 15:48)
+            ✔ Welcome / On boarding Screen @done(18-08-01 15:48)
+            ✔ Register Screen @done(18-08-01 15:48)
+            ✔ Login Screen @done(18-08-01 15:48)
+        ☐ Main App @started(18-08-01 18:32)
+            ✔ Home Screen @started(18-08-01 18:33) @done(18-08-02 10:19) @lasted(15h46m9s)
+            ✔ Drawer Navigation @started(18-08-01 16:40) @done(18-08-01 17:10) @lasted(30m15s)
+            ✔ Categories Screen @started(18-08-04 14:25) @done(18-08-05 13:22) @lasted(22h57m39s)
+            ☐ Category Listing Screen
+            ✔ Product Detail Screen @started(18-08-02 10:37) @done(18-08-02 13:52) @lasted(3h15m2s)
+            ✔ Add Review Screen @done(18-08-03 22:43)
+            ✔ Checkout Cart Screen @started(18-08-07 18:00) @done(18-08-07 23:31) @lasted(5h31m5s)
+            ☐ Checkout Screen
+
+    ☐ Logic
+        ☐ Authentication
+            ☐ Login
+            ☐ Register
+  
