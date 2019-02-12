@@ -6,6 +6,7 @@ npm-debug.*
 .DS_Store
 yarn-error.log
 !assets/*
+assets/.DS_Store
 !src/*
-src/store
-src/graphql
+!src/store
+!src/graphql
